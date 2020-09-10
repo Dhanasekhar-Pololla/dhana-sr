@@ -1,4 +1,4 @@
 this is one
 git is opensource
 git is a leightweight
-git is a tool
+git is a easy
