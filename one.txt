@@ -1,3 +1,2 @@
 this is one
-git is lightweight
-git
+git is a lightweigt
