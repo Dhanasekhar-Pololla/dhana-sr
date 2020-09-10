@@ -1,4 +1,5 @@
 this is one
 git is opensource
-git is a lightweigt
-git is very commonly used
+git is a leightweight
+git is mms
+git is closed to use
