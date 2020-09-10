@@ -1,2 +1,5 @@
+apples are red
 this is demo file for clone.
 this is updated demo file.
+this line is to demo git pull
+this is line fetch demo
