@@ -1,4 +1,4 @@
 this is one
 git is opensource
 git is a lightweigt
-git is easy tool
+git is easy quit
