@@ -3,4 +3,8 @@ git is opensource
 git is a lightweigt
 git is easy iy
 git is a easy
+<<<<<<< HEAD
 git is distributed verion control system
+=======
+git is fetch
+>>>>>>> 3f217e56c15f6d35e7a48a25fc67ea957c79dbcc
