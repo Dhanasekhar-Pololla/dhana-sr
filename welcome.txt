@@ -4,5 +4,6 @@ this is updated demo file.
 this line is to demo git pull
 this is line fetch demo
 grapes green
-git is easy
+git is easy
 git is proper
+git is grasop
