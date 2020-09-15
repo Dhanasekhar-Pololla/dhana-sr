@@ -6,4 +6,4 @@ this is line fetch demo
 grapes green
 git is easy
 git is proper
-git is grasop
+git is wrap
