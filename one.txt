@@ -2,6 +2,7 @@ this is one
 git is opensource
 git is a lightweigt
 git is easy iy
+git is hub of code
 git is a easy
 <<<<<<< HEAD
 git is distributed verion control system
