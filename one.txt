@@ -4,6 +4,7 @@ git is a lightweigt
 git is easy iy
 lllllllllllll
 git is hub of code
+kkkkk
 git is a easy
 <<<<<<< HEAD
 git is distributed verion control system
